@@ -6,3 +6,5 @@
 - Examples of **good**: diversity and peace. Examples of **not good**: hate and racism. 
 
 🧑🏾‍🦳 https://antinazi.org
+
+antiNazi is a PWA with full offline capabilities.
